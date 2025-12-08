@@ -1,16 +1,18 @@
-## Hola mi nombre es Nahuel Goitea 👋
+### Hola, soy Nahuel Goitea 👋
 
-<!--
-**nawe1123/nawe1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de **Ciencias Físicas** y **Ciencia de Datos** en la **UBA (Universidad de Buenos Aires)**. Me apasiona combinar el rigor matemático con la programación para resolver problemas complejos y extraer valor de los datos.
 
-Here are some ideas to get you started:
+🌟 **Actualmente:**
+* 🎓 **Becario Fundación YPF 2025**.
+* 🔭 Buscando oportunidades como **Data Scientist** o **Analista de Datos**.
+* 🐧 Entusiasta del Software Libre y el ecosistema Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Habilidades Técnicas:**
+* **Lenguajes:** Python (Pandas, NumPy, Matplotlib, SciPy), Java.
+* **Base de Datos:** SQL (Diseño de queries, ETL).
+* **Análisis:** Modelado Matemático, Estadística, Simulación.
+* **Herramientas:** Git, Jupyter Notebooks.
+* 
+📫 **Contacto:**
+* [LinkedIn](https://www.linkedin.com/in/nahuel-goitea/)
+* [Email](goiteana20@gmail.com)
