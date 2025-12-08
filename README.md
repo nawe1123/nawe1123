@@ -12,7 +12,7 @@ Soy estudiante avanzado de **Ciencias Físicas** y **Ciencia de Datos** en la **
 * **Base de Datos:** SQL (Diseño de queries, ETL).
 * **Análisis:** Modelado Matemático, Estadística, Simulación.
 * **Herramientas:** Git, Jupyter Notebooks.
-* 
+  
 📫 **Contacto:**
 * [LinkedIn](https://www.linkedin.com/in/nahuel-goitea/)
 * [Email](goiteana20@gmail.com)
