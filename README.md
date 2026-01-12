@@ -15,4 +15,4 @@ Soy estudiante avanzado de **Ciencias Físicas** y **Ciencia de Datos** en la **
   
 📫 **Contacto:**
 * [LinkedIn](https://www.linkedin.com/in/nahuel-goitea/)
-* [Email](goiteana20@gmail.com)
+* [Email](mailto:goiteana20@gmail.com)
