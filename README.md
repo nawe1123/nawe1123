@@ -8,11 +8,14 @@ I am an advanced **Physics** and **Data Science** student at the **UBA (Universi
 * 🐧 Open Source and Linux ecosystem enthusiast.
 
 💻 **Technical Skills:**
-* **Languages:** Python (Pandas, NumPy, Matplotlib, SciPy), Java.
-* **Databases:** SQL (Query design, ETL).
-* **Analysis:** Mathematical Modeling, Statistics, Simulation.
-* **Tools:** Git, Jupyter Notebooks.
-  
+
+* **Languages:** Python, SQL, Java, Bash.
+* **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+* **Databases:** Query design, ETL, Relational Databases.
+* **Physics & Analysis:** Mathematical Modeling, Monte Carlo Simulations, Numerical Analysis.
+* **Tools:** Git, Linux (Fedora/Ubuntu), Jupyter Notebooks, LaTeX.
+
 📫 **Contact:**
+
 * [LinkedIn](https://www.linkedin.com/in/nahuel-goitea/)
 * [Email](mailto:goiteana20@gmail.com)
