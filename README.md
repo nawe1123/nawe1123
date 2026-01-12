@@ -1,18 +1,18 @@
-### Hola, soy Nahuel Goitea 👋
+### Hi, I'm Nahuel Goitea 👋
 
-Soy estudiante avanzado de **Ciencias Físicas** y **Ciencia de Datos** en la **UBA (Universidad de Buenos Aires)**. Me apasiona combinar el rigor matemático con la programación para resolver problemas complejos y extraer valor de los datos.
+I am an advanced **Physics** and **Data Science** student at the **UBA (University of Buenos Aires)**. I am passionate about combining mathematical rigor with programming to solve complex problems and extract value from data.
 
-🌟 **Actualmente:**
-* 🎓 **Becario Fundación YPF 2025**.
-* 🔭 Buscando oportunidades como **Data Scientist** o **Analista de Datos**.
-* 🐧 Entusiasta del Software Libre y el ecosistema Linux.
+🌟 **Currently:**
+* 🎓 **2025 YPF Foundation Scholar.**
+* 🔭 Seeking opportunities as a **Data Scientist** or **Data Analyst**.
+* 🐧 Open Source and Linux ecosystem enthusiast.
 
-💻 **Habilidades Técnicas:**
-* **Lenguajes:** Python (Pandas, NumPy, Matplotlib, SciPy), Java.
-* **Base de Datos:** SQL (Diseño de queries, ETL).
-* **Análisis:** Modelado Matemático, Estadística, Simulación.
-* **Herramientas:** Git, Jupyter Notebooks.
-  
-📫 **Contacto:**
+💻 **Technical Skills:**
+* **Languages:** Python (Pandas, NumPy, Matplotlib, SciPy), Java.
+* **Databases:** SQL (Query design, ETL).
+* **Analysis:** Mathematical Modeling, Statistics, Simulation.
+* **Tools:** Git, Jupyter Notebooks.
+  
+📫 **Contact:**
 * [LinkedIn](https://www.linkedin.com/in/nahuel-goitea/)
 * [Email](mailto:goiteana20@gmail.com)
