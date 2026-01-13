@@ -39,6 +39,10 @@ While my focus is Data Science, I have a strong foundation in Software Engineeri
 - **Email:** [goiteana20@gmail.com](mailto:goiteana20@gmail.com)
 
 ---
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawe1123&show_icons=true&theme=radical" alt="Nahuel's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nawe1123&show_icons=true&theme=radical" alt="Nahuel's GitHub Stats" />
 </p>
+
+---
+*“Measurement is the first step that leads to control and eventually to improvement.”*
