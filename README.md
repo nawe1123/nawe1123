@@ -12,22 +12,22 @@ I am an advanced Physics and Data Science student at the University of Buenos Ai
 
 While my focus is Data Science, I have a strong foundation in Software Engineering and Algorithms:
 
-🫀 **[Heart Disease Risk Prediction](https://github.com/nawe1123/TU-REPO-ACA)**
+🫀 **[Heart Disease Risk Prediction](https://github.com/nawe1123/heart-disease-prediction-app)**
 - **Stack:** Python, Flask, Scikit-Learn, HTML/CSS.
 - **Focus:** Machine Learning, Logistic Regression, Web Deployment.
 - **Key achievement:** Developed an end-to-end Machine Learning solution designed to predict the risk of cardiovascular disease based on clinical parameters. Bridged the gap between statistical modeling and practical web deployment.
 
-📈 **[Monte Carlo Simulation - YPF Stock Modeling](https://github.com/nawe1123/TU-REPO-ACA)**
+📈 **[Monte Carlo Simulation - YPF Stock Modeling](https://github.com/nawe1123/simulacion-montecarlo-ypf)**
 - **Stack:** Python, SQL.
 - **Focus:** Financial Modeling, Stochastic Simulation, Numerical Methods.
 - **Key achievement:** Developed a predictive model to analyze historical behavior and project the stock price of YPF using numerical methods, inferential statistics, and Monte Carlo simulations.
 
-☕ **[EdR - Academic Management System](https://github.com/nawe1123/TU-REPO-ACA)**
+☕ **[EdR - Academic Management System](https://github.com/nawe1123/Edr-Algorithms-UBA)**
 - **Language:** Java.
 - **Focus:** High-performance algorithms, Formal Specification (First-Order Logic), and Custom Data Structures.
 - **Key achievement:** Implementation of a Min-Heap with handles for efficient $O(\log n)$ ranking updates.
 
-🐍 **[Battleship Game](https://github.com/nawe1123/TU-REPO-ACA)**
+🐍 **[Battleship Game](https://github.com/nawe1123/Battleship-Python-UBA)**
 - **Language:** Python.
 - **Focus:** GUI development (Tkinter), Matrix manipulation, and Unit Testing.
 - **Key achievement:** Robust game engine with automated PC moves and high code coverage.
